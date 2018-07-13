@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{748FF245-B140-415B-A987-57ACE7BDC8D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="quiz/Startup.cs">
+    <Files>
+      <File FileName="quiz/appsettings.json" Line="1" Column="1" />
+      <File FileName="quiz/Model/Questions.cs" Line="12" Column="23" />
+      <File FileName="quiz/Program.cs" Line="17" Column="1" />
+      <File FileName="quiz/Controllers/QuestionsController.cs" Line="12" Column="4" />
+      <File FileName="quiz/Controllers/QuizzesController.cs" Line="33" Column="11" />
+      <File FileName="quiz/Controllers/AccountsController.cs" Line="50" Column="42" />
+      <File FileName="quiz/Startup.cs" Line="38" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.quiz PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
